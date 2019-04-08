@@ -3,7 +3,10 @@
 
 Codeigniter Admin Template is a Ultimate Codeigniter Material + Bootstrap 4 integrated admin template. We have also added User & Role management with unlimited user permissions with ajax authentication. It comes with most common features with lot of premium material and boostrap 4 forms, tables, email, ui elements, reports, charts and many more options. It will help you to build Admin panel, CMS, Employee management, CRM, or any backend administrator System.
 
-Live Demo: https://optimumlinkupsoftware.com/template/ Sample Software Built With: https://optimumlinkupsoftware.com/newschool/ Core Features:
+Live Demo: https://optimumlinkupsoftware.com/template/ Sample Software Built With: https://optimumlinkupsoftware.com/newschool/ 
+Download Software here: https://sourceforge.net/projects/codeigniter-admin-template/
+Software size is 44MB and maximum file you can upload here is 25MB
+Core Features:
 
     Latest CodeIgniter 3.1.7
     Bootstrap 4 & Material Design
