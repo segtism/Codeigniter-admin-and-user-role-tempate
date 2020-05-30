@@ -3,11 +3,11 @@
 
 Codeigniter Admin Template is a Ultimate Codeigniter Material + Bootstrap 4 integrated admin template. We have also added User & Role management with unlimited user permissions with ajax authentication. It comes with most common features with lot of premium material and boostrap 4 forms, tables, email, ui elements, reports, charts and many more options. It will help you to build Admin panel, CMS, Employee management, CRM, or any backend administrator System.
 
-COMPLETE HOSPITAL MANAGEMENT SYSTEM SOURCE CODES AND DATABASE FOR JUST $15 (JUST 300 BUYERS NEEDED)
-Demo Link: https://www.optimumlinkupsoftware.com/hospital/
-Purchase Link: https://www.optimumlinkup.com.ng/
+MULTI BRANCH SCHOOL SYSTEM WITH LIVE STREAMING CLASSROOM
+Demo: https://www.optimumlinkupsoftware.com/multibranch/
 
-Once your payment is successful, you will be able to download the software immediately from the success page and also download link will be sent to your email.
+OFINE SCHOOL SYSTEM WITH LIVE STREAMING CLASSROOM
+Demo: https://www.optimumlinkupsoftware.com/ofineschool/
 
 INSTALLATION AND SETUP PROCEDURES https://www.youtube.com/channel/UCBemL4ht7jmZY9tJ8NGkS-A?sub_confirmation=1 
 Please subscribe to our channel for more source codes.
@@ -21,7 +21,7 @@ Download Software here: https://sourceforge.net/projects/codeigniter-admin-templ
 Software size is 44MB and maximum file you can upload here is 25MB
 Core Features:
 
-    Latest CodeIgniter 3.1.7
+    Latest CodeIgniter 3.1.11
     Bootstrap 4 & Material Design
     Easy Integration & Customization
     Standared & clean code
